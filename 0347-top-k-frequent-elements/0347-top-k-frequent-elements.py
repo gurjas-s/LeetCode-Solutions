@@ -7,15 +7,14 @@ class Solution:
                 freq[num] = 1
             else:
                 freq[num] += 1
-        m = max(freq.values())
         #row index is the count, columns are the nums
         #this is bucket sorting
-        arr = [[] for i in range(m+1)] 
+        arr = [[] for i in range(n+1)] 
         highest = float("-inf")
         for num, count in freq.items():
             highest = max(highest, count) #index for k=1
             arr[count].append(num)
-        print(arr)
+        
         res = []
         for i in range(highest, highest-k-1, -1):
             for j in range(len(arr[i])):
@@ -23,6 +22,5 @@ class Solution:
                     res.append(arr[i][j])
                     if len(res) == k:
                         return res
-                else:
-                    break
+                
         return res
