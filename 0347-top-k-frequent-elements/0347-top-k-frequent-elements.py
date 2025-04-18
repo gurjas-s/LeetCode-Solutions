@@ -10,15 +10,11 @@ class Solution:
         m = max(freq.values())
         #row index is the count, columns are the nums
         #this is bucket sorting
-        arr = [[float("-inf") for j in range(n+1)] for i in range(m+1)] 
+        arr = [[] for i in range(m+1)] 
         highest = float("-inf")
         for num, count in freq.items():
             highest = max(highest, count) #index for k=1
-            i = count
-            for j in range(len(arr[count])):
-                if arr[count][j] == float("-inf"):
-                    arr[count][j] = num
-                    break
+            arr[count].append(num)
         print(arr)
         res = []
         for i in range(highest, highest-k-1, -1):
