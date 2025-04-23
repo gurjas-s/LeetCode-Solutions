@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0883-car-fleet](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0883-car-fleet) |
 ## Linked List
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0883-car-fleet](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0883-car-fleet) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0883-car-fleet](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0883-car-fleet) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0883-car-fleet](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0883-car-fleet) |
 <!---LeetCode Topics End-->
