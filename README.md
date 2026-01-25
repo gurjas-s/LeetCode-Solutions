@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0883-car-fleet) |
+| [1115-valid-boomerang](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/1115-valid-boomerang) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+## Math
+|  |
+| ------- |
+| [1115-valid-boomerang](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/1115-valid-boomerang) |
+## Geometry
+|  |
+| ------- |
+| [1115-valid-boomerang](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/1115-valid-boomerang) |
 <!---LeetCode Topics End-->
