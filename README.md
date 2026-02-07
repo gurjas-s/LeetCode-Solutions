@@ -91,4 +91,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1115-valid-boomerang](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/1115-valid-boomerang) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
