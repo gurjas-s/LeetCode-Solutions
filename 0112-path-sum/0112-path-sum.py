@@ -16,26 +16,24 @@ class Solution:
         sumQ.append(root.val) 
         seen = set()
  
-        while queue:
-  
-            cur=queue.popleft() 
- 
-            if not cur:
-                continue
+        while queue: 
+            cur=queue.popleft()  
+            # if not cur: #ignore null
+            #     continue
            
             curSum = sumQ.popleft() 
-            if cur.left:
+            if cur.left: #visit neighbour step
                 leftCurSum = curSum + cur.left.val
                 sumQ.append(leftCurSum)
-                seen.add(leftCurSum)
-            if cur.right:
+                queue.append(cur.left) 
+            if cur.right:#visit neighbour
                 rightCurSum = curSum + cur.right.val
                 sumQ.append(rightCurSum)            
-                seen.add(rightCurSum)
-            if not cur.left and not cur.right:
+                queue.append(cur.right)
+            if not cur.left and not cur.right: #if leaf node check if sum in thisd path equals target
                 if curSum == targetSum:
                     return True
-            queue.append(cur.left)
-            queue.append(cur.right)
+            
+
   
         return False
