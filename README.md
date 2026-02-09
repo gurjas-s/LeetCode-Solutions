@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0883-car-fleet) |
 | [1115-valid-boomerang](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/1115-valid-boomerang) |
+| [1829-maximum-units-on-a-truck](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/1829-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0883-car-fleet) |
+| [1829-maximum-units-on-a-truck](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/1829-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0112-path-sum) |
+## Greedy
+|  |
+| ------- |
+| [1829-maximum-units-on-a-truck](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/1829-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
