@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0883-car-fleet) |
 | [1115-valid-boomerang](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/1115-valid-boomerang) |
@@ -39,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0883-car-fleet) |
 | [1829-maximum-units-on-a-truck](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/1829-maximum-units-on-a-truck) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1115-valid-boomerang](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/1115-valid-boomerang) |
 ## Geometry
 |  |
@@ -119,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
