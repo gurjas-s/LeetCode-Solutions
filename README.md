@@ -137,4 +137,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0899-binary-gap](https://github.com/gurjas-s/LeetCode-Solutions/tree/master/0899-binary-gap) |
 <!---LeetCode Topics End-->
